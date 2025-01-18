@@ -1,0 +1,16 @@
+<template>
+    <lightning-card title="Contacts Associated">
+
+        <div class="c1">
+            <p>recordId : {recordId}</p>
+            <p>data : {data}</p>
+        </div>
+        <div>
+            Hello {greeting}
+        </div>
+        <div>
+            <lightning-input label="greet" onchange={handleChange}></lightning-input>
+        </div>
+        <lightning-datatable data={data} columns={columns} key-field="Id" hide-checkbox-column="false"></lightning-datatable>
+    </lightning-card>
+</template>

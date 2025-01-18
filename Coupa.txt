@@ -1,0 +1,45 @@
+Q) Whats your total work Experience?
+1.5 years
+
+Q) What's your current location? If you are not currently residing in Pune, what would be your motivation to relocate to Pune? 
+I am currently working from home(Lucknow).
+I would prefer work-from-home opportunities if possible. and if not, I can relocate subject to other things.
+My motivation to relocate to Pune is, I have spent 4 years of my college in Pune.  Many of my college friends are already working in Pune.
+I am quite well versed with the place.
+
+Q) What is your current salary? What is your expected salary? 
+Current CTC: 7.01 lacs
+Expected CTC: 12.57 lacs
+
+Q) What is your current notice period? 
+3 months, Previously it was 2 months but extended to 3 months in December last year. 
+
+Q) Do you have any offers in Hand? If Yes, what is the tentative joining date of the new organization?
+No, I am currently not holding any offer in my hand.
+
+Q) Why would Coupa interest you as your next career move?
+Looking at the job description, this opportunity looks quite tempting to me in terms of learning opportunities and career growth particularly in
+the salesforce domain.  
+
+Q) Are you open to working in flexible shift timings?
+Yes  
+
+Q) Please mention the reason for moving out of all your previous jobs and including the current company. Please be as descriptive as possible. E.g. Company name: Reason 
+Persistent Systems: Reasons why I am looking for a job change :
+a)Looking for better learning opportunities: Though I am getting to learn well with my current job. But still, I believe that I am not able to utilize my 
+potential to the full extent in terms of learning and implementation. I want to explore multiple areas of salesforce and its capabilities in solving business 
+problems.
+b)Instability in policies in the last quarter: had to face a lot of hustle with new policies and systems being introduced in between the major releases.
+The major problem is these systems are not robust. For example, The newly introduced deployment process with Jenkins caused lots of code overrides in multiple
+sandboxes and we had to spend time fixing that and somehow pushing our code to production. In the Last 2 months, I spent the majority of my time fixing the deployments.
+I didn't get to work much on the development side and this thing is concerning me.
+c)Better Compensation: I am seeking better compensation as well.
+
+Q) Please confirm you have read the job description of the job applied for and you want to pursue your candidature for the position. 
+Yes, I have read the job description. I found this opening on LinkedIn and applied through the Coupa software career site. I am pretty much interested in this 
+job opportunity.
+
+Q) Our office is currently located at Senapati Bapat Road (Pune), are you comfortable commuting to the office daily if selected? 
+Yes. 
+Q) Does any of your friends or relatives work for Coupa? We love internal references. Please name if you have an internal reference in Coupa.
+No.
