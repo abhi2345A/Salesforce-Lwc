@@ -1,0 +1,11 @@
+# Life cycle hooks in Mounting Phase:
+
+1) Constructor Method:
+
+* It is invoked when the component instance is created.
+* We have to call the super() inside this first.
+* At this point, component properties won't be ready.
+* To access the host element, use this.template.
+* Method flows from parent to child.
+* we can't access child elements in component body because they don't exist yet,
+* Don't add attributes to the host element in the Constructor.
