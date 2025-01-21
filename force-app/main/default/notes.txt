@@ -9,3 +9,14 @@
 * Method flows from parent to child.
 * we can't access child elements in component body because they don't exist yet,
 * Don't add attributes to the host element in the Constructor.
+
+
+2) Connected Callback:
+
+* It is invoked when the component is inserted into the DOM.
+* Method flows from parent to child.
+* We can't access the child elements in the component body because they don't exist yet.
+* We can access the host element with this.template.
+* Use it for: initialisation tasks, such as fetch data, set up caches, or listen to events(Pub/Sub).
+* Don't use it to change the state of the component, such as loading values or setting properties. Use getters/setters instead.
+ 
