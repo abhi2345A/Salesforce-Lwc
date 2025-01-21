@@ -19,4 +19,12 @@
 * We can access the host element with this.template.
 * Use it for: initialisation tasks, such as fetch data, set up caches, or listen to events(Pub/Sub).
 * Don't use it to change the state of the component, such as loading values or setting properties. Use getters/setters instead.
- 
+
+ 3) Rendered Callback:
+
+ * It is invoked when component rendering is completed.
+ * It can fire more than once.
+ * Method flows from child to parent.
+ * When component re-renders, all the expressions used in the template are reevaluated.
+ * Don't use it -  to change the state or update property of the component..
+ * Don't update a wire adapter configuration object property in renderedCallback(), as it can result in an infinite loop.
