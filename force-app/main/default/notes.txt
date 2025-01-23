@@ -28,3 +28,11 @@
  * When component re-renders, all the expressions used in the template are reevaluated.
  * Don't use it -  to change the state or update property of the component..
  * Don't update a wire adapter configuration object property in renderedCallback(), as it can result in an infinite loop.
+
+ 4) Disconnected Callback:
+
+ * Fires when the component is removed from the DOM.
+ * It flows from parent to child.
+ * specific to LWC, it isn't from the custom elements specification.
+
+ 

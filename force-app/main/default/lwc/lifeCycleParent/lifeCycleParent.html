@@ -1,7 +1,13 @@
 <template>
     <lightning-card title="Lifecycle hook parent card">
         <div class="slds-var-m-around_medium">
-            <c-life-cycle-child></c-life-cycle-child>
+            <template lwc:if={showChild}>
+                <c-life-cycle-child></c-life-cycle-child>
+                <lightning-button label="disable child" onclick={handleClick}></lightning-button>
+            </template>
+            <template lwc:else>
+                <p>Child element hidden from UI!</p>
+            </template>
         </div>
     </lightning-card>
 </template>

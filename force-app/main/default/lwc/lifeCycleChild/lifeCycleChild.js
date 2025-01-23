@@ -15,4 +15,8 @@ export default class LifeCycleChild extends LightningElement {
         console.log('child renderedCallback invoked');
     }
 
+    disconnectedCallback(){
+        console.log('child disconnectedCallback invoked');
+    }
+
 }
